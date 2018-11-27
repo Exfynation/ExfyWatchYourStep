@@ -1,0 +1,5 @@
+name: ExfyWatchYourStep
+author: anhei
+version: 1.0-SNAPSHOT
+main: de.exfy.watchyourstep.WatchYourStep
+depend: [GameLib, ExfyCore]
